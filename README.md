@@ -2,6 +2,9 @@
 
 This is a script for extracting the WordNet-FrameNet Mappings from [VerbNet](https://github.com/cu-clear/verbnet).
 
+### Download:
+* `git clone --recurse-submodules https://github.com/nu11us/VerbNet-WN-FN-Mappings`
+
 ### Configuration:
 * Create a virtual environment: `python -m venv venv`
 * Enter virtual environment: `source venv/bin/activate`
